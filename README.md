@@ -1,49 +1,49 @@
-# ☕ Java Coaching Repository
+# ☕ Professional Java Coaching Repository
 
-Welcome to the **Java Coaching Repository**! This repository is designed as a structured learning curriculum for mastering Java programming from the basics to advanced concepts.
+![Java Version](https://img.shields.io/badge/Java-11%2B-orange?logo=java&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+Welcome to the **Java Coaching Repository**! This repository is designed as a structured, day-by-day curriculum for learning Java, from the absolute basics to advanced topics like Object-Oriented Programming (OOP), Data Structures, and more.
 
 ---
 
 ## 📚 Curriculum Overview
 
-The course is divided into sequential classes focusing on core Java concepts.
+Our learning journey is organized into structured daily modules. Each day contains a theoretical explanation (`README.md`), a `Learning/` directory with code examples, and an `Assignments/` folder for practice.
 
-- **[Class 1: Basics, Datatypes, Operators & Control Flow](./Class_1)**
-  - Introduction to variables, datatypes, and operators.
-  - Control statements (`if`, `switch`) and loops (`for`, `while`, `do-while`).
-  - Break and continue statements.
+### 🔰 The Basics
+- **[Day 1: Variables and Datatypes](./Day_1_Variables_and_Datatypes)** - Introduction to variables, datatypes, operators, and console input/output.
+- **[Day 2: Control Statements](./Day_2_Control_Statements)** - Flow control using `if`, `switch`, `break`, and `continue`.
+- **[Day 3: Loops](./Day_3_Loops)** - Iterative operations using `for`, `while`, and `do-while` loops.
 
-- **[Class 2: Arrays & Strings](./Class_2)**
-  - Single and multi-dimensional arrays.
-  - Array functions.
-  - String manipulation and string methods.
-
-- **[Class 3: Future Topics](./Class_3)**
-  - *(Empty for now - upcoming lessons on OOP, Functions, etc.)*
+### 🧩 Data Structures & Types
+- **[Day 4: Arrays](./Day_4_Arrays)** - Single and multidimensional arrays, traversal, and common array functions.
+- **[Day 5: Strings](./Day_5_Strings)** - String manipulation, common string methods, and immutability concepts.
 
 ---
 
 ## 🚀 Getting Started
 
-To run the code, you will need the Java Development Kit (JDK) installed on your machine.
-You can compile and run any of the `.java` files using a terminal or command prompt:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/antickbhattacharjee/Java_Study_MAterials.git
+   cd Java_Study_MAterials
+   ```
 
-```bash
-# Navigate to the specific class directory
-cd Class_1
-
-# Compile the Java file
-javac Datatypes_input.java
-
-# Run the compiled Java class
-java Datatypes_input
-```
+2. **Run any lesson script:**
+   Navigate into a specific day's learning folder, compile, and execute the Java file. For example:
+   ```bash
+   cd Day_1_Variables_and_Datatypes/Learning
+   javac Datatypes_input.java
+   java Datatypes_input
+   ```
 
 ---
 
 ## 💡 Contribution & Guidelines
-- Follow standard Java naming conventions and best practices.
-- The `.gitignore` file ensures compiled `.class` files are not pushed to the repository.
-- Feel free to modify the code locally to experiment and practice!
+- All code files follow standard Java conventions.
+- Each concept should be practiced thoroughly before moving on to the next day.
+- Feel free to modify the code locally to experiment and learn!
 
 Happy Coding! 🎉
