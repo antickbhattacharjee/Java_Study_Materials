@@ -12,14 +12,20 @@ Welcome to the **Java Coaching Repository**! This repository is designed as a st
 
 Our learning journey is organized into structured daily modules. Each day contains a theoretical explanation (`README.md`), a `Learning/` directory with code examples, and an `Assignments/` folder for practice.
 
-### 🔰 The Basics
-- **[Day 1: Variables and Datatypes](./Day_1_Variables_and_Datatypes)** - Introduction to variables, datatypes, operators, and console input/output.
-- **[Day 2: Control Statements](./Day_2_Control_Statements)** - Flow control using `if`, `switch`, `break`, and `continue`.
-- **[Day 3: Loops](./Day_3_Loops)** - Iterative operations using `for`, `while`, and `do-while` loops.
-
-### 🧩 Data Structures & Types
-- **[Day 4: Arrays](./Day_4_Arrays)** - Single and multidimensional arrays, traversal, and common array functions.
-- **[Day 5: Strings](./Day_5_Strings)** - String manipulation, common string methods, and immutability concepts.
+### 🔰 The Flow
+- **[Day 1: Introduction to OOP and Java](./Day_1_Intro_to_OOP_and_Java)** - Minimal coding, Hello world and input.
+- **[Day 2: Variables, Datatypes, Arrays](./Day_2_Variables_Datatypes_Arrays)**
+- **[Day 3: Operators](./Day_3_Operators)**
+- **[Day 4: Conditional and control statements](./Day_4_Conditional_and_Control_Statements)**
+- **[Day 5: Loops and iteratives](./Day_5_Loops_and_Iteratives)**
+- **[Day 6: OOP Practical understanding](./Day_6_OOP_Practical_Understanding)**
+- **[Day 7: Advance OOP](./Day_7_Advance_OOP)**
+- **[Day 8: Exception handling](./Day_8_Exception_Handling)**
+- **[Day 9: Interfaces](./Day_9_Interfaces)**
+- **[Day 10: Multi Threaded Program](./Day_10_Multi_Threaded_Program)**
+- **[Day 11: Predefined Libraries](./Day_11_Predefined_Libraries)**
+- **[Day 12: File handling](./Day_12_File_Handling)**
+- **[Day 13: Rest](./Day_13_Rest)**
 
 ---
 
